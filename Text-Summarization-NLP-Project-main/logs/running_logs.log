@@ -14,3 +14,7 @@
 [2023-08-30 09:50:35,641: INFO: on: Waiting for application shutdown.]
 [2023-08-30 09:50:35,643: INFO: on: Application shutdown complete.]
 [2023-08-30 09:50:35,644: INFO: server: Finished server process [5304]]
+[2023-08-30 09:50:40,490: INFO: server: Started server process [12256]]
+[2023-08-30 09:50:40,491: INFO: on: Waiting for application startup.]
+[2023-08-30 09:50:40,492: INFO: on: Application startup complete.]
+[2023-08-30 09:50:40,492: INFO: server: Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)]
