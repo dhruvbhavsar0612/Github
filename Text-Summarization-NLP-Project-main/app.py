@@ -10,7 +10,7 @@ from textSummarizer.pipeline.prediction import PredictionPipeline
 
 text:str = "What is Text Summarization?"
 
-app = FastAPI()
+app = FastAPI() 
 
 @app.get("/", tags=["authentication"])
 async def index():
