@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 
 REPO_NAME = "Text-Summarizer-Project"
-AUTHOR_USER_NAME = "entbappy"
+AUTHOR_USER_NAME = "dhruvbhavsar0612"
 SRC_REPO = "textSummarizer"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "dbhavsar9898@gmail.com"
 
 
 
